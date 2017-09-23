@@ -1,2 +1,2 @@
 # IdentifyProductCategory
-Recognizing Retail Stores Items using Deep Learning
+Recognizing retail store images using Transfer Learning in keras.
